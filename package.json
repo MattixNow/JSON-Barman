@@ -1,0 +1,23 @@
+{
+  "name": "json-barman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@sindresorhus/slugify": "^0.9.1",
+    "axios": "^0.19.0",
+    "chalk": "^2.4.2",
+    "json-server": "^0.15.0",
+    "jsop": "^0.3.1",
+    "lowdb": "^1.0.0",
+    "markdown-json": "^1.4.0",
+    "node-dir": "^0.1.17",
+    "showdown": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mattèo Gauthier",
+  "license": "MIT"
+}
